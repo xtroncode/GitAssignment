@@ -1,3 +1,3 @@
 # GitAssignment
 
-Write small paragraph about yourself and commit it.
+Write small paragraph about yourself in Mydata.txt and commit it.
